@@ -13,7 +13,7 @@ use Symplify\Astral\PhpDocParser\ValueObject\PhpDocAttributeKey;
  * Mimics https://github.com/nikic/PHP-Parser/blob/master/lib/PhpParser/NodeVisitor/ParentConnectingVisitor.php
  *
  * @see \Symplify\Astral\Tests\PhpDocParser\PhpDocNodeVisitor\ParentConnectingPhpDocNodeVisitorTest
- */
+ * @see \Symplify\Astral\Tests\PhpDocParser\PhpDocNodeVisitor\ParentConnectingPhpDocNodeVisitorTest*/
 final class ParentConnectingPhpDocNodeVisitor extends AbstractPhpDocNodeVisitor
 {
     /**

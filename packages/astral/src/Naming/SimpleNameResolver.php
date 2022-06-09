@@ -16,7 +16,7 @@ use Symplify\Astral\Contract\NodeNameResolverInterface;
 
 /**
  * @see \Symplify\Astral\Tests\Naming\SimpleNameResolverTest
- */
+ * @see \Symplify\Astral\Tests\Naming\SimpleNameResolverTest*/
 final class SimpleNameResolver
 {
     /**

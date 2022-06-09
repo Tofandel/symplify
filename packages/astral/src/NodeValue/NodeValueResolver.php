@@ -27,7 +27,7 @@ use Symplify\PackageBuilder\Php\TypeChecker;
 
 /**
  * @see \Symplify\Astral\Tests\NodeValue\NodeValueResolverTest
- */
+ * @see \Symplify\Astral\Tests\NodeValue\NodeValueResolverTest*/
 final class NodeValueResolver
 {
     private ConstExprEvaluator $constExprEvaluator;
