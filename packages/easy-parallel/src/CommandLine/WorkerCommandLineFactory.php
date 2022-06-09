@@ -11,7 +11,7 @@ use Symplify\EasyParallel\Reflection\CommandFromReflectionFactory;
 
 /**
  * @see \Symplify\EasyParallel\Tests\CommandLine\WorkerCommandLineFactoryTest
- */
+ * @see \Symplify\EasyParallel\Tests\CommandLine\WorkerCommandLineFactoryTest*/
 final class WorkerCommandLineFactory
 {
     /**
