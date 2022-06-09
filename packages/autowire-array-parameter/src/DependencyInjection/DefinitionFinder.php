@@ -12,7 +12,7 @@ use Throwable;
 /**
  * @api
  * @see \Symplify\AutowireArrayParameter\Tests\DependencyInjection\DefinitionFinderTest
- */
+ * @see \Symplify\AutowireArrayParameter\Tests\DependencyInjection\DefinitionFinderTest*/
 final class DefinitionFinder
 {
     /**

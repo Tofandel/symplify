@@ -8,7 +8,7 @@ use Nette\Utils\Strings;
 
 /**
  * @see \Symplify\AutowireArrayParameter\Tests\DocBlock\ParamTypeDocBlockResolverTest
- */
+ * @see \Symplify\AutowireArrayParameter\Tests\DocBlock\ParamTypeDocBlockResolverTest*/
 final class ParamTypeDocBlockResolver
 {
     /**
